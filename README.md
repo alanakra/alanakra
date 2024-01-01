@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="600" height="562" src="https://i.giphy.com/LGzrggUppEBdm.gif">
+  <img width="600" height="562" src="https://giphy.com/embed/hITSUzR6hJ6SBBeYK1">
 </div>
 <!--
 alanakra/alanakra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
